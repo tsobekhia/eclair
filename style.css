@@ -1,0 +1,203 @@
+/*********************tags****************************/
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #fee2b3;
+  font-family: 'Poppins', sans-serif;
+}
+
+nav {
+  width: 100%;
+  height: 100px;
+  background-color: #fff;
+
+}
+
+nav ul {
+  text-align: right;
+  padding-right: 5%;
+}
+
+nav ul li {
+  list-style: none;
+  display: inline-block;
+  line-height: 100px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  padding: 5px;
+  color: #1e1e1e;
+  font-family: 'Poppins', sans-serif;
+}
+
+nav ul li a:hover {
+  color:#f37121;
+}
+
+h1 {
+
+  font-family: 'Sacramento', cursive;
+
+}
+
+span {
+  font-family: 'Playfair Display', serif;
+
+}
+/*********************classes************************/
+
+.img-nav {
+  height: 100px;
+  float:left;
+  margin: 0 20px;
+}
+.header {
+  position: relative;
+  left: 200px;
+  top: 20px;
+  background-color: white;
+  padding:10px;
+  width:680px;
+  border-radius: 20%;
+
+}
+
+.top-div{
+  position: relative;
+  bottom: 50px;
+}
+.top-div1{
+  display: inline-block;
+  position: relative;
+  left: 30px;
+  bottom: 70px;
+  background-color: white;
+  width:300px;
+  border-radius: 20px;
+  padding: 15px;
+}
+.top-div2{
+  display:inline-block;
+  position: relative;
+  top: 100px;
+  left: 100px;
+
+  background-color: white;
+  width:600px;
+  border-radius: 20px;
+  padding: 15px;
+}
+
+.img-12 {
+  width:300px;
+  padding-top: 15px;
+}
+
+.img-14 {
+  width: 600px;
+}
+
+.div-contact {
+  position: relative;
+  top: 100px;
+  right: 30px;
+  float:right;
+ border-radius: 20px;
+ padding: 30px;
+ background-color: white;
+
+}
+
+.footer {
+  width:100%;
+  height:100px;
+  background-color: white;
+  position: relative;
+  top:100px;
+}
+.part-footer {
+  width:70%;
+  height: 80%;
+  float: right;
+  background-color: #bc658d;
+  margin:10px auto;
+}
+
+.part-footer h1 {
+  color:white;
+  text-align: center;
+  line-height: 80px;
+  }
+
+.part-footer h1 span {
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+}
+
+.footer h3 {
+  font-family: 'Poppins', sans-serif;
+  float:left;
+  display: inline-block;
+  font-size: 12px;
+  line-height: 100px;
+  position: relative;
+  left:20px;
+}
+.cakes {
+  width:700px;
+  background-color: white;
+  border-radius: 80px;
+  position: relative;
+  top: 30px;
+  margin:auto;
+}
+
+.cakes h1 {
+  font-family: 'Poppins', sans-serif;
+  font-style: oblique;
+  text-align: center;
+  color: #bc658d;
+
+}
+.cakes p {
+  padding: 30px;
+  text-align: center;
+}
+.cakes hr {
+  width:150px;
+  background-color: white;
+  border-width: 5px;
+  margin: auto;
+  border-color: #bc658d;
+}
+
+.table {
+  position: relative;
+  top:50px;
+  padding: 20px;
+}
+
+.table img {
+  width:200px;
+  margin:10px;
+}
+
+.service-h1 {
+    font-family: 'Poppins', sans-serif;
+    color: #1e1e1e;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-style: normal;
+    margin: 50px auto 20px auto;
+    text-align: center;
+}
+
+.form {
+  position: relative;
+  left:35%;
+  width:30%;
+}
